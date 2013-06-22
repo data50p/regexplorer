@@ -16,7 +16,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>demo.DemoClient</mainClass>
+                            <mainClass>com.femtioprocent.regexplorer.RegexPlorer</mainClass>
                         </manifest>
                         <manifestEntries>
                             <SplashScreen-Image>splash.png</SplashScreen-Image>

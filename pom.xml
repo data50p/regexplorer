@@ -54,9 +54,11 @@
 		    <execution> 
 			<id>attach-jexec</id>
 			<phase>package</phase>
+<!--
 			<goals>
 			    <goal>assembly</goal>
 			</goals> 
+-->
 		    </execution> 
 		</executions> 
 	    </plugin>
